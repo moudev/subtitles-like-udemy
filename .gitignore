@@ -1,23 +1,17 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Created by https://www.gitignore.io/api/emacs
+# Edit at https://www.gitignore.io/?templates=emacs
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
 
-# testing
-/coverage
+### Custom
 
-# production
-/build
-
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+node_modules/
