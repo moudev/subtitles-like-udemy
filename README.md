@@ -1,68 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Subtitles like Udemy
 
-## Available Scripts
+Imitación de subtitulos al igual que la plataforma de aprendizaje "Udemy".
 
-In the project directory, you can run:
+Es solamente un demo de la simulación del mismo método de seguimiento de subtitulos, no tiene la sincronización de milisegundos, solo por segundos.
 
-### `npm start`
+Hay que realizarle muchas correcciones, pero solamente es un demo para motivos de aprendizaje, está a una gran distancia de la versión original.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ¿Cómo puede servir para motivos de aprendizaje?
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Te puede servir para cargar videos de YouTube, descargar los subtitulos y practicar el 'listening', a medida que vas viendo el video se remarca el texto que se está reproduciendo, y cuando tengas dudas del qué pronunciaron puedas revisar los subtitulos, teniendo de ventaja que ya sabrás en qué lugar del texto observar.
 
-### `npm test`
+Puedes agregar [Dictionary (Google™ Translate) Anywhere](https://addons.mozilla.org/es/firefox/addon/dictionary-anywhere/) a tu navegador y si no sabes una palabra poder traducirla y agregarla a tu vocabulario.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Espero te ayude en tu aprendizaje, ya que ése fué el motivo para realizarlo, facilitarme el aprendizaje y que otras personas también puedan usarlo. Compartelo si lo consideras adecuado y muchos más puedan beneficiarse.
 
-### `npm run build`
+Si tiene fallas me disculpo de ante mano por la mala experiencia, algún día le agregaré mejoras.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Intrucciones de uso
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+- Visita el sitio [subtitles-like-udemy](http://www.mauriciormr.xyz/subtitles-like-udemy/)
+- Dirigete a YouTube, copia el enlace del video seleccionado
+- Pega el enlace en el sitio [subtitles-like-udemy](http://www.mauriciormr.xyz/subtitles-like-udemy/) en el campo de texto "Enter URL"
+- Presiona "Load"
+- Visita el sitio [http://www.lilsubs.com/](http://www.lilsubs.com/) y pega el enlace del video de YouTube para poder descargar el subtitulo
+- Regresa a [subtitles-like-udemy](http://www.mauriciormr.xyz/subtitles-like-udemy/) y presiona "Load Subtitle"
+- Se mostrará una ventana donde puedes seleccionar el subtitulo descargado
+- El subtitulo se cargará y se remarcará según el video vaya avanzando
+  
+## Demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![Subtitles like Udemy](https://user-images.githubusercontent.com/13499566/60759994-e682b480-9fea-11e9-882b-3c1b835ef0ad.png)
