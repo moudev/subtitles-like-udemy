@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/subtitles-like-udemy/precache-manifest.0e22600de316a45711958ce941a4ee88.js"
+  "/subtitles-like-udemy/precache-manifest.c58266bf581323e7d0415efe112725e7.js"
 );
 
 self.addEventListener('message', (event) => {

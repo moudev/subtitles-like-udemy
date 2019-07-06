@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "223da982b5789511af72af314d50a595",
+    "revision": "34c65c8d12466166cc59695c46b8bfe5",
     "url": "/subtitles-like-udemy/index.html"
   },
   {
