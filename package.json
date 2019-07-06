@@ -1,8 +1,17 @@
 {
-  "name": "yt-subtitles",
-  "version": "0.1.0",
+  "name": "subtitles-like-udemy",
+  "version": "1.0.0",
+  "description": "Show subtitles like Udemy.",
+  "author": "Mauricio Martínez",
   "private": true,
   "homepage": "https://moudev.github.io/subtitles-like-udemy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moudev/subtitles-like-udemy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moudev/subtitles-like-udemy/issues"
+  },
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
