@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subtitles-like-udemy/static/css/main.3494b8ca.chunk.css",
+    "main.js": "/subtitles-like-udemy/static/js/main.96298df0.chunk.js",
+    "main.js.map": "/subtitles-like-udemy/static/js/main.96298df0.chunk.js.map",
+    "runtime~main.js": "/subtitles-like-udemy/static/js/runtime~main.cca06a51.js",
+    "runtime~main.js.map": "/subtitles-like-udemy/static/js/runtime~main.cca06a51.js.map",
+    "static/js/2.bbe72b70.chunk.js": "/subtitles-like-udemy/static/js/2.bbe72b70.chunk.js",
+    "static/js/2.bbe72b70.chunk.js.map": "/subtitles-like-udemy/static/js/2.bbe72b70.chunk.js.map",
+    "index.html": "/subtitles-like-udemy/index.html",
+    "precache-manifest.0e22600de316a45711958ce941a4ee88.js": "/subtitles-like-udemy/precache-manifest.0e22600de316a45711958ce941a4ee88.js",
+    "service-worker.js": "/subtitles-like-udemy/service-worker.js",
+    "static/css/main.3494b8ca.chunk.css.map": "/subtitles-like-udemy/static/css/main.3494b8ca.chunk.css.map"
+  }
+}
